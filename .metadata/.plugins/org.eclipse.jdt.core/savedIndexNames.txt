@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\lelne\OneDrive\Documentos\JAVA\TRABAJOS1\Notas Modulos con arraylist\.metadata\.plugins\org.eclipse.jdt.core
+858302925.index
+1311717214.index
+1865797976.index
